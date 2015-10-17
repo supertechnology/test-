@@ -1,3 +1,3 @@
 <?php
-	echo "hello aiha alshaab";dsadsad
+	echo "hello aiha alshaab";
 ?>
