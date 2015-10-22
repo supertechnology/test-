@@ -1,7 +1,7 @@
 <?php
 	echo "file 2";
 
-	asdasdsada
-	
+	feature1
+
 	?>
 	
